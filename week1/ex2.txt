@@ -1,0 +1,500 @@
+   48  вщслук
+   49  docker exec python import_pb_to_tensorboard.py --model_dir ztmp/model.pb --log_dir ztmp
+   50  docker exec tensorflow python import_pb_to_tensorboard.py --model_dir ztmp/model.pb --log_dir ztmp
+   51  brew search tensorflow
+   52  python
+   53  docker commit tensorflow
+   54  docker commit tensorflow
+   55  docker container ls
+   56  docker commit 74b56c0e9b16 tensorflow
+   57  docker save tensorflow > tensorflow.tar
+   58  docker save tensorflow > tensorflow.tar
+   59  ssh ksaitov@10.90.136.169
+   60  ssh ksaitov@10.90.136.169:22
+   61  ssh ksaitov@10.90.136.169
+   62  ssh ksaitov@10.90.136.169
+   63  ssh ksaitov@10.90.136.169:22
+   64  ssh ksaitov@10.90.136.169:22
+   65  ssh ksaitov@10.90.136.169
+   66  ssh ksaitov@10.90.136.169
+   67  ssh ksaitov@10.90.136.169
+   68  ssh ksaitov@10.90.136.169:22
+   69  cd
+   70  ssh ksaitov@10.90.136.169
+   71  ssh ksaitov@10.90.136.169
+   72  ssh ksaitov@10.90.136.169
+   73  ssh k.saitov@10.90.136.169
+   74  ssh k.saitov@10.90.136.160
+   75  cd androidstudioprojects
+   76  git clone https://github.com/llSourcell/A_Guide_to_Running_Tensorflow_Models_on_Android
+   77  docker run -p 8888:8888 tensorflow
+   78  docker run -p 8888:8888 tensorflow
+   79  ssh k.saitov@10.90.136.160
+   80  ssh k.saitov@10.90.136.160
+   81  ssh k.saitov@10.90.136.160
+   82  ssh ksaitov@10.90.136.160
+   83  ssh ksaitov@10.90.136.160
+   84  ssh ksaitov@10.90.136.166
+   85  cd tensorflow_container
+   86  git init
+   87  git add README.md
+   88  git add tensorflow.tar
+   89  git remote add origin https://github.com/Sariellee/tensorflow_container.git
+   90  git push -u origin master
+   91  git push origin master
+   92  git add .
+   93  cd
+   94  git clone https://github.com/Sariellee/tensorflow_container
+   95  git clone https://github.com/Sariellee/tensorflow_container
+   96  cd tensorflow_container
+   97  git add .
+   98  git commit -m "first commit"
+   99  git push
+  100  cd
+  101  git clone https://gitlab.com/Sariell/tensorflow_container
+  102  cd tensorflow_container
+  103  git add .
+  104  git lfs install
+  105  brew install git-lfs
+  106  git lfs install
+  107  git lfs track "*.tar"
+  108  git add .
+  109  git commit -am "Added Debian iso"     # commit the file meta data
+  110  git push origin master                # sync the git repo and large file to the GitLab server
+  111  ssh k.saitov@10.90.136.160
+  112  ssh k.saitov@10.90.136.160:22
+  113  ssh k.saitov@10.90.136.160
+  114  ssh ksaitov@10.90.136.160
+  115  ssh k.saitov@10.90.136.160
+  116  ssh ksaitov@10.90.136.160
+  117  ssh ksaitov@10.90.136.160
+  118  ssh kюsaitov@10.90.136.160
+  119  ssh k.saitov@10.90.136.160
+  120  ssh k.saitov@10.90.136.166
+  121  ssh ksaitov@10.90.136.166
+  122  ssh ksaitov@10.90.136.166
+  123  ssh ksaitov@10.90.136.166
+  124  ssh ksaitov@10.90.136.166
+  125  ssh ksaitov@10.90.136.166
+  126  ssh ksaitov@10.90.136.166
+  127  ssh ksaitov@10.90.136.166
+  128  ssh ksaitov@10.90.136.166
+  129  ssh ksaitov@10.90.136.166
+  130  git clone https://gitlab.com/Sariell/tensorflow_cont
+  131  git add .
+  132  cd tensorflow_cont
+  133  git add .
+  134  git commit -m "added anaconda installer"
+  135  git push
+  136  cd processed_dataset
+  137  ssh ksaitov@10.90.136.166
+  138  quit
+  139  exit
+  140  ssh ksaitov@10.90.136.166
+  141  exit
+  142  ssh ksaitov@10.90.136.166
+  143  cd lymedetector
+  144  git add .
+  145  git
+  146  git rm
+  147  git rm .
+  148  git rm . -r
+  149  git add .
+  150  git commit -m "added app"
+  151  git push
+  152  git add .
+  153  git commit -m "update"
+  154  git push
+  155  ssh ksaitov@10.90.136.166
+  156  ssh ksaitov@10.90.136.166
+  157  git clone -b unprocessed_dataset https://github.com/ahmadchan/LymeDetector/tree 
+  158  git clone -b unprocessed_dataset https://github.com/ahmadchan/LymeDetector
+  159  git add .
+  160  cd lymedetector
+  161  git add .
+  162  git commit -m "update"
+  163  git push
+  164  git add .
+  165  git commit -m "added learning ipynb files"
+  166  git push
+  167  git commit -m "added the app"
+  168  git add .
+  169  git commit -m "added the app"
+  170  git push
+  171  git lfs install
+  172  git lfs add .
+  173  git-lfs --help
+  174  git add .
+  175  git lfs track /
+  176  git lfs track
+  177  git track "*.ir.ap_"
+  178  git lfs track "*.ir.ap_"
+  179  git commit -m "added necessary git-LFS files"
+  180  git lfs push
+  181  git lfs push origin unprocessed_dataset
+  182  git push
+  183  sudo killall siri
+  184  ssh ksaitov@10.90.136.166
+  185  ssh ksaitov@10.90.136.166
+  186  ssh ksaitov10.90.136.162
+  187  ssh ksaitov@10.90.136.162
+  188  jupyter
+  189  jupyter notebook
+  190  tensorboard
+  191  ssh ksaitov@10.90.136.162
+  192  ssh ksaitov@10.90.136.162
+  193  ssh ksaitov@10.90.136.162
+  194  ssh ksaitov@10.90.136.162
+  195  ssh ksaitov@10.90.136.162
+  196  cd lymedetector
+  197  git add .
+  198  git commit -m "added back dataset"
+  199  git push
+  200  св
+  201  cd
+  202  docker container ls
+  203  docker images
+  204  docker rm
+  205  docker
+  206  docker image
+  207  docker image rm
+  208  docker image rm dc839706f474 e411f9fa4bcb 75ca5867c419 d8c3db27fe38 c43357a62d10 778368811b27 e7a53807ee54 e38bc07ac18e
+  209  docker images
+  210  docker ps
+  211  docker container rm 
+  212  docker image rm -f e38bc07ac18e
+  213  docker images
+  214  docker image rm -f 6c50112c7265
+  215  docker image rm -f e7a53807ee54
+  216  docker rmi $(docker images -q) -f
+  217  docker images
+  218  docker run -p 8888:8888 tensorflow/tensorflow
+  219  pip install flask
+  220  pip install pil
+  221  pip install PIL
+  222  brew install pil
+  223  ssh ksaitov@10.90.136.162
+  224  ssh ksaitov@10.90.136.162
+  225  ssh ksaitov@10.90.136.162
+  226  ssh ksaitov@10.90.136.162
+  227  ssh ksaitov@10.90.136.162
+  228  $ pip install -U flask-cors
+  229  $ pip install -U flask-cors
+  230  pip install -U flask-cors
+  231  ssh ksaitov@10.90.136.162
+  232  ssh ksaitov@10.90.136.162
+  233  ssh ksaitov@10.90.136.162
+  234  ssh ksaitov@10.90.136.162
+  235  ssh ksaitov@10.90.136.162
+  236  ssh ksaitov@10.90.136.162
+  237  cd lymedetector
+  238  git add .
+  239  git add .
+  240  git commit -m "added server, updated the app, updated the model"
+  241  git push
+  242  git config http.postBuffer 524288000
+  243  git push
+  244  cd pycharmprojects
+  245  cd untitled6
+  246  git init
+  247  git remote add origin https://gitlab.com/Sariell/lyme-server.git
+  248  git add .
+  249  git lfs install
+  250  git lfs track
+  251  lfs
+  252  git lfs
+  253  git lfs track "*.pb"
+  254  git add .
+  255  git commit -m "Initial commit"
+  256  git push -u origin master
+  257  cd ..
+  258  cd ..
+  259  cd lymedetector
+  260  git
+  261  git add .
+  262  git lfs track "*pb"
+  263  git lfs track "*.pb"
+  264  git commit -m "working app, working server, 83% accuracy"
+  265  git push
+  266  git lfs track "*.so"
+  267  git push
+  268  git lfs track "*.h5"
+  269  git add ./
+  270  git add .
+  271  git commit -m "working app, working server, 83% accuracy"
+  272  git push
+  273  git lfs push
+  274  git lfs push origin unprocessed_dataset
+  275  git push
+  276  git add .
+  277  git commit -m ""added lfs files
+  278  git commit -m ""added lfs files"
+  279  "
+  280  git commit -m "added lfs files"
+  281  git push
+  282  git lfs install
+  283  git commit -m "added lfs files"
+  284  git lfs install
+  285  git push
+  286  git lfs
+  287  git lfs env
+  288  git config lfs.https://gitlab.com/Sariell/lyme-server.git/info/lfs.locksverify true
+  289  git lfs track "*.h5"
+  290  git lfs track "*.so"
+  291  git commit -m "added lfs files"
+  292  git push
+  293  rm -rf .git
+  294  rm -rf .git*
+  295  ls lah
+  296  git push
+  297  git init
+  298  git remote add origin https://gitlab.com/Sariell/LymeDetector.git
+  299  git lfs install
+  300  git lfs track "*.so"
+  301  git lfs track "*.h5"
+  302  git add .
+  303  git commit -m "Initial commit"
+  304  git push -u origin master
+  305  git push lfs
+  306  git lfs push
+  307  git lfs push origin master
+  308  git config lfs.https://gitlab.com/Sariell/LymeDetector.git/info/lfs.locksverify true
+  309  git lfs push
+  310  git lfs push origin master
+  311  git push
+  312  git add lymedetectordesign
+  313  git commit -m "added app"
+  314  git push
+  315  git clone https://gitlab.com/Sariell/LymeDetector
+  316  git clone https://gitlab.com/Sariell/LymeDetector --recurse-submodules
+  317  git clone https://gitlab.com/Sariell/LymeDetector
+  318  cd lymedetector
+  319  git lfs pull
+  320  git pull
+  321  cd ..
+  322  cd..
+  323  cd
+  324  cd lymedetector
+  325  git init
+  326  git lfs install
+  327  git remote add origin https://gitlab.com/Sariell/LymeDetector.git
+  328  ls -a
+  329  rm -r *.git
+  330  rm *.git
+  331  rm -rf .git*
+  332  ls -a
+  333  git init
+  334  git remote add origin https://gitlab.com/Sariell/LymeDetector.git
+  335  git lfs install
+  336  git add .
+  337  git lfs track "*.h5"
+  338  git lfs track "*tensorflow_internal.so"
+  339  ls -a
+  340  rm .gitattributes
+  341  ls -a
+  342  ls -a
+  343  rm -rf .gitattributes
+  344  ls -a
+  345  rm -rf .gitattributes.txt
+  346  rm -rf .gitignore.txt
+  347  ls -a
+  348  ls -a
+  349  ren .gitignore.txt .gitignore
+  350  mv .gitignore.txt .gitignore
+  351  ls -a
+  352  rm -rf .gitignore.txt
+  353  ls -a
+  354  git add .
+  355  git commit -m "Initial commit"
+  356  git push
+  357  git push --set-upstream origin master
+  358  св
+  359  cd
+  360  cd androidstudioprojects
+  361  cd lymedetectordesign
+  362  git ini
+  363  git init
+  364  git add .
+  365  git commit -m "app finished"
+  366  git push
+  367  git commit -m "deleted unnescessary files"
+  368  git push
+  369  cd
+  370  cd lymedetector
+  371  git add .
+  372  git commit -m "deleted unnescessary files"
+  373  git push
+  374  ssh-keygen
+  375  ssh
+  376  ssh-keygen -t rsa
+  377  ssh-keygen -t rsa
+  378  ssh-keygen
+  379  ssh-keygen --help
+  380  ssh-keygen -t ed25519
+  381  ssh 46.101.139.245@root
+  382  ssh root@46.101.139.245
+  383  ssh 46.101.139.245
+  384  ssh user@46.101.139.245
+  385  cd
+  386  cd pycharmprojects
+  387  cd untitled6
+  388  git add .
+  389  git commit -m "updated server&model"
+  390  git push
+  391  git add .
+  392  git commit -m "optimized server for public use"
+  393  git push
+  394  docker run -p 8888:8888 from python:2.7.15
+  395  git add .
+  396  git commit -m "fixed error"
+  397  git push
+  398  git add .
+  399  git commit -m "running public server"
+  400  git push
+  401  cd unprocessed_dataset/
+  402  git pull
+  403  cd ..
+  404  git clone https://github.com/ahmadchan/LymeDetector unprocessed_dataset
+  405  cd ..
+  406  git clone https://github.com/ahmadchan/LymeDetector unprocessed_dataset
+  407  git checkout unprocessed_dataset
+  408  cd unprocessed_dataset/
+  409  git checkout unprocessed_dataset
+  410  git add .
+  411  git commit -m "update app"
+  412  git push
+  413  cd LymeDetectorDesign/
+  414  ls -a
+  415  rm -r .git
+  416  ls -a
+  417  rm -f .git
+  418  rm -r -f .git
+  419  ls -a
+  420  rm -r .gitattributes 
+  421  rm -r .gitignore
+  422  cd ..
+  423  git add .
+  424  git commit -m "removed git from app"
+  425  git clone https://github.com/ahmadchan/LymeDetector -b unprocessed_dataset
+  426  git clone https://github.com/ahmadchan/LymeDetector -b unprocessed_dataset unprocessed_dataset
+  427  cd ..
+  428  cd
+  429  git clone https://github.com/ahmadchan/LymeDetector
+  430  git clone https://github.com/ahmadchan/LymeDetector unprocessed_dataset
+  431  git checkout unprocessed_dataset
+  432  cd unprocessed_dataset/
+  433  git checkout unprocessed_dataset
+  434  git add .
+  435  git commit -m "turned submodule into a folder"
+  436  git add .
+  437  git add .
+  438  git commit -m "added app folder"
+  439  git push
+  440  git lfs install
+  441  git lfs track "_pywrap_tensorflow_internal.so"
+  442  git lfs track ".h5"
+  443  git add .
+  444  git commit -m "brought back big files"
+  445  git push
+  446  git lfs install
+  447  git lfs track "*.h5"
+  448  git add .
+  449  git commit -m "added back big file"
+  450  git lfs push
+  451  git lfs push origin unprocessed_dataset
+  452  git push
+  453  git clone https://github.com/ahmadchan/LymeDetector unprocessed dataset
+  454  git clone https://github.com/ahmadchan/LymeDetector unprocessed dataset
+  455  git clone https://github.com/ahmadchan/LymeDetector/ unprocessed_dataset
+  456  git clone https://github.com/ahmadchan/LymeDetector/ unprocessed_dataset
+  457  git clone https://github.com/ahmadchan/LymeDetector/ unprocessed_dataset
+  458  cd ..
+  459  cd ..
+  460  cd unprocessed_dataset/
+  461  git checkout unprocessed_dataset
+  462  git add .
+  463  git lfs install
+  464  git track "*.h5"
+  465  git lfs track "*.h5"
+  466  git add .
+  467  git commit -m "added model"
+  468  git push
+  469  git pull
+  470  git push
+  471  git lfs track "*internal.so"
+  472  git add .
+  473  git commit -m "added 1 more big file (from interpreter)"
+  474  git push
+  475  git add .
+  476  git commit -m "moved big files to right places"
+  477  git push
+  478  git add .
+  479  git commit -m "Commented everything"
+  480  git push
+  481  git pull
+  482  git push
+  483  cd unprocessed_dataset/
+  484  git pull
+  485  cd ..
+  486  git pull https://gitlab.com/amtareen/Lyme-Disease-Project
+  487  git clone https://gitlab.com/amtareen/Lyme-Disease-Project
+  488  cd Lyme-Disease-Project/
+  489  git add .
+  490  git commit -m "Initial commit (without Git LFS big files)"
+  491  git push
+  492  git checkout -b dev
+  493  git push
+  494  git push --set-upstream origin dev
+  495  git lfs install
+  496  git lfs track "*.h5"
+  497  git lfs track "*internal.so"
+  498  git add .
+  499  git commit -m "Added big Git LFS files"
+  500  git push
+  501  ssh k.saitov@osc-1.edu.innopolis.ru
+  502  cd os
+  503  cd os_lab
+  504  mkdir week1
+  505  cd week1
+  506  cd
+  507  cd usr/bin
+  508  cd os_lab
+  509  cd week1
+  510  ls -a
+  511  cd usr
+  512  cd 
+  513  cd ..
+  514  cd ..
+  515  cd ..
+  516  fwd
+  517  pwd
+  518  cd usr
+  519  cd bin
+  520  cd
+  521  cd ..
+  522  cd ..
+  523  cd ..
+  524  ls | grep *gcc* | sort -r
+  525  ls | grep *gcc* /usr/bin/ | sort -r
+  526  cd usr/bin
+  527  ls | grep *gcc* | sort -r
+  528  ls | grep *gcc* | sort -r | head -n 3
+  529  ls | grep gcc | sort -r | head -n 3
+  530  ls | grep gcc | sort -r
+  531  ls | grep gcc | sort -r > ~/week1/ex1.txt
+  532  cd
+  533  cd os_lab
+  534  cd week1
+  535  touch ex1.txt
+  536  cd 
+  537  cd ..
+  538  cd ..
+  539  cd usr
+  540  cd bin
+  541  ls | grep gcc | sort -r > ~/week1/ex1.txt
+  542  ls | grep gcc | sort -r > ~/os_lab/week1/ex1.txt
+  543  cd 
+  544  cd os_lab
+  545  cd week1
+  546  touch ex2.txt
+  547  history > ex2.txt
