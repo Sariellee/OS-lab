@@ -27,7 +27,7 @@ int main(){
 
 	}
 	else{
-		child_id1 = fork;
+		child_id1 = fork();
 		if(child_id1 == 0){
 			printf("Child 1 created\n");
       		while(1);
