@@ -1,0 +1,7 @@
+2^16/2^13 = 8 entries
+
+16bit virtual address => 2^16 total virtual addresses
+
+Pages weigh 2^13bits
+
+So number of entries is 2^16/2^13.

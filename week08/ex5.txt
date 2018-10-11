@@ -1,0 +1,2 @@
+Physical address is a location in memory.
+Virtual address maps through MMU to a physical address.
