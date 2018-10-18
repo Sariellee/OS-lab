@@ -1,8 +1,10 @@
 Increased:
 
-1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 
+1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
 
-Will result in 8 misses (when filling) and never miss again, because the sequence is repeating, so it will only use the pages, which are already in the page table
+Will result in 6 misses (when filling) and never miss again, because the sequence is repeating, so it will only use the pages, which are already in the page table. If amount of page frames is less than 6, though, it will produce more misses. In general, for page frame amount >=1, the sequence that will produce 1 miss is:
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 
 Decreased:
 
