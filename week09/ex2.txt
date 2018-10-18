@@ -2,10 +2,10 @@ Increased:
 
 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 1 2 3 4 5 6 7 8 
 
-Will result in 8 misses (when filling) and never miss again
+Will result in 8 misses (when filling) and never miss again, because the sequence is repeating, so it will only use the pages, which are already in the page table
 
 Decreased:
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
 
-Will result in miss rate 100%
+Will result in miss rate 100% because the sequence is never repeating, thus it will not use any of the pages already in the page table. Instead, it will always load new pages from memory
