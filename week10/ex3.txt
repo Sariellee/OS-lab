@@ -1,0 +1,11 @@
+Step 1:
+-rw-r--r--  1 kamilsaitov  staff     0B 24 окт 13:29 _ex3.txt
+
+Step 2:
+-rw-r--r--  1 kamilsaitov  staff     0B 24 окт 13:29 _ex3.txt
+
+Step 3:
+-rwxr--rwx  1 kamilsaitov  staff     0B 24 окт 13:29 _ex3.txt
+
+Step 4:
+-rwxrwxrwx  1 kamilsaitov  staff     0B 24 окт 13:29 _ex3.txt
