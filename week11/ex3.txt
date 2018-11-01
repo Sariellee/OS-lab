@@ -1,0 +1,1 @@
+In the first one, the buffer is used by the parent and child process. In the second one, the buffer is flushed after the "\n" symbol, so the child process gets empty buffer and can only put the line break.
